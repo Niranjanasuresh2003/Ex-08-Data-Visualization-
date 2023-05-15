@@ -18,7 +18,7 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 # CODE
-~~~
+
 # Reading the given dataset
 
 import pandas as pd
@@ -141,7 +141,7 @@ plt.show()
 
 plt.boxplot(x="Sales",data=df)
 plt.show()
-~~~
+
 # OUPUT
 
 # Reading the given dataset
